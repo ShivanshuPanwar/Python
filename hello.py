@@ -1,0 +1,1 @@
+print("Hello Python!")    # print is used for print statement
