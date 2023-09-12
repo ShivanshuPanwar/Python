@@ -2,7 +2,7 @@
 
 x=5
 y=3.0
-z=6j
+z=6j       # Complex numbers are written with a "j" as the imaginary part
 
 a = float(x)
 b = int(y) 
