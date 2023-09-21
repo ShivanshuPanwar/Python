@@ -10,4 +10,3 @@ d = c.casefold()
 print(d)
 
 
-e = ""
