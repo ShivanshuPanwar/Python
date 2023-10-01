@@ -9,4 +9,3 @@ c = "HellO CodeR"
 d = c.casefold()
 print(d)
 
-
